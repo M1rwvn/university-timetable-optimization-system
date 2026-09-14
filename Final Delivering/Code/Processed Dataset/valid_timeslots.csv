@@ -1,0 +1,11 @@
+timeslot_id,day,start_time,end_time
+T001,Monday,09:00,10:30
+T002,Monday,10:45,12:15
+T003,Monday,13:00,14:30
+T004,Monday,14:45,16:15
+T005,Tuesday,09:00,10:30
+T006,Tuesday,10:45,12:15
+T007,Tuesday,13:00,14:30
+T008,Tuesday,14:45,16:15
+T009,Wednesday,09:00,10:30
+T010,Wednesday,10:45,12:15 

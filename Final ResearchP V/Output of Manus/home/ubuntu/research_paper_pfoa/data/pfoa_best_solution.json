@@ -1,0 +1,5502 @@
+[
+    {
+        "lecture_id": 0,
+        "timeslot_id": 96,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 1,
+        "timeslot_id": 87,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 2,
+        "timeslot_id": 11,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 3,
+        "timeslot_id": 73,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 4,
+        "timeslot_id": 84,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 5,
+        "timeslot_id": 66,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 6,
+        "timeslot_id": 76,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 7,
+        "timeslot_id": 9,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 8,
+        "timeslot_id": 11,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 9,
+        "timeslot_id": 6,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 10,
+        "timeslot_id": 32,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 11,
+        "timeslot_id": 59,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 12,
+        "timeslot_id": 19,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 13,
+        "timeslot_id": 89,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 14,
+        "timeslot_id": 54,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 15,
+        "timeslot_id": 84,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 16,
+        "timeslot_id": 28,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 17,
+        "timeslot_id": 48,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 18,
+        "timeslot_id": 25,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 19,
+        "timeslot_id": 90,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 20,
+        "timeslot_id": 16,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 21,
+        "timeslot_id": 3,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 22,
+        "timeslot_id": 13,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 23,
+        "timeslot_id": 45,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 24,
+        "timeslot_id": 89,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 25,
+        "timeslot_id": 96,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 26,
+        "timeslot_id": 26,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 27,
+        "timeslot_id": 21,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 28,
+        "timeslot_id": 66,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 29,
+        "timeslot_id": 33,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 30,
+        "timeslot_id": 86,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 31,
+        "timeslot_id": 21,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 32,
+        "timeslot_id": 19,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 33,
+        "timeslot_id": 84,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 34,
+        "timeslot_id": 32,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 35,
+        "timeslot_id": 6,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 36,
+        "timeslot_id": 25,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 37,
+        "timeslot_id": 18,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 38,
+        "timeslot_id": 13,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 39,
+        "timeslot_id": 88,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 40,
+        "timeslot_id": 46,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 41,
+        "timeslot_id": 25,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 42,
+        "timeslot_id": 97,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 43,
+        "timeslot_id": 31,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 44,
+        "timeslot_id": 81,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 45,
+        "timeslot_id": 81,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 46,
+        "timeslot_id": 86,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 47,
+        "timeslot_id": 34,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 48,
+        "timeslot_id": 33,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 49,
+        "timeslot_id": 3,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 50,
+        "timeslot_id": 48,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 51,
+        "timeslot_id": 89,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 52,
+        "timeslot_id": 74,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 53,
+        "timeslot_id": 15,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 54,
+        "timeslot_id": 28,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 55,
+        "timeslot_id": 89,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 56,
+        "timeslot_id": 46,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 57,
+        "timeslot_id": 90,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 58,
+        "timeslot_id": 26,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 59,
+        "timeslot_id": 88,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 60,
+        "timeslot_id": 83,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 61,
+        "timeslot_id": 61,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 62,
+        "timeslot_id": 48,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 63,
+        "timeslot_id": 90,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 64,
+        "timeslot_id": 32,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 65,
+        "timeslot_id": 93,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 66,
+        "timeslot_id": 58,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 67,
+        "timeslot_id": 93,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 68,
+        "timeslot_id": 14,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 69,
+        "timeslot_id": 14,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 70,
+        "timeslot_id": 54,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 71,
+        "timeslot_id": 21,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 72,
+        "timeslot_id": 54,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 73,
+        "timeslot_id": 48,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 74,
+        "timeslot_id": 67,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 75,
+        "timeslot_id": 76,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 76,
+        "timeslot_id": 73,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 77,
+        "timeslot_id": 8,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 78,
+        "timeslot_id": 16,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 79,
+        "timeslot_id": 59,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 80,
+        "timeslot_id": 83,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 81,
+        "timeslot_id": 15,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 82,
+        "timeslot_id": 13,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 83,
+        "timeslot_id": 90,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 84,
+        "timeslot_id": 5,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 85,
+        "timeslot_id": 54,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 86,
+        "timeslot_id": 1,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 87,
+        "timeslot_id": 93,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 88,
+        "timeslot_id": 19,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 89,
+        "timeslot_id": 60,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 90,
+        "timeslot_id": 13,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 91,
+        "timeslot_id": 89,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 92,
+        "timeslot_id": 72,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 93,
+        "timeslot_id": 79,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 94,
+        "timeslot_id": 3,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 95,
+        "timeslot_id": 29,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 96,
+        "timeslot_id": 74,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 97,
+        "timeslot_id": 89,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 98,
+        "timeslot_id": 32,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 99,
+        "timeslot_id": 84,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 100,
+        "timeslot_id": 13,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 101,
+        "timeslot_id": 21,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 102,
+        "timeslot_id": 11,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 103,
+        "timeslot_id": 15,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 104,
+        "timeslot_id": 98,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 105,
+        "timeslot_id": 34,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 106,
+        "timeslot_id": 76,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 107,
+        "timeslot_id": 57,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 108,
+        "timeslot_id": 87,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 109,
+        "timeslot_id": 93,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 110,
+        "timeslot_id": 29,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 111,
+        "timeslot_id": 96,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 112,
+        "timeslot_id": 72,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 113,
+        "timeslot_id": 87,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 114,
+        "timeslot_id": 65,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 115,
+        "timeslot_id": 22,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 116,
+        "timeslot_id": 89,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 117,
+        "timeslot_id": 48,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 118,
+        "timeslot_id": 66,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 119,
+        "timeslot_id": 64,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 120,
+        "timeslot_id": 84,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 121,
+        "timeslot_id": 11,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 122,
+        "timeslot_id": 21,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 123,
+        "timeslot_id": 59,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 124,
+        "timeslot_id": 59,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 125,
+        "timeslot_id": 18,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 126,
+        "timeslot_id": 45,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 127,
+        "timeslot_id": 24,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 128,
+        "timeslot_id": 13,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 129,
+        "timeslot_id": 32,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 130,
+        "timeslot_id": 62,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 131,
+        "timeslot_id": 22,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 132,
+        "timeslot_id": 46,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 133,
+        "timeslot_id": 60,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 134,
+        "timeslot_id": 21,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 135,
+        "timeslot_id": 18,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 136,
+        "timeslot_id": 8,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 137,
+        "timeslot_id": 93,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 138,
+        "timeslot_id": 74,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 139,
+        "timeslot_id": 98,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 140,
+        "timeslot_id": 65,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 141,
+        "timeslot_id": 14,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 142,
+        "timeslot_id": 64,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 143,
+        "timeslot_id": 14,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 144,
+        "timeslot_id": 28,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 145,
+        "timeslot_id": 16,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 146,
+        "timeslot_id": 74,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 147,
+        "timeslot_id": 60,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 148,
+        "timeslot_id": 97,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 149,
+        "timeslot_id": 61,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 150,
+        "timeslot_id": 5,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 151,
+        "timeslot_id": 73,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 152,
+        "timeslot_id": 84,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 153,
+        "timeslot_id": 95,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 154,
+        "timeslot_id": 8,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 155,
+        "timeslot_id": 54,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 156,
+        "timeslot_id": 96,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 157,
+        "timeslot_id": 61,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 158,
+        "timeslot_id": 8,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 159,
+        "timeslot_id": 5,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 160,
+        "timeslot_id": 84,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 161,
+        "timeslot_id": 18,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 162,
+        "timeslot_id": 14,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 163,
+        "timeslot_id": 73,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 164,
+        "timeslot_id": 97,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 165,
+        "timeslot_id": 76,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 166,
+        "timeslot_id": 31,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 167,
+        "timeslot_id": 84,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 168,
+        "timeslot_id": 76,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 169,
+        "timeslot_id": 19,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 170,
+        "timeslot_id": 76,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 171,
+        "timeslot_id": 88,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 172,
+        "timeslot_id": 86,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 173,
+        "timeslot_id": 73,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 174,
+        "timeslot_id": 19,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 175,
+        "timeslot_id": 74,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 176,
+        "timeslot_id": 34,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 177,
+        "timeslot_id": 3,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 178,
+        "timeslot_id": 15,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 179,
+        "timeslot_id": 73,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 180,
+        "timeslot_id": 76,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 181,
+        "timeslot_id": 57,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 182,
+        "timeslot_id": 84,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 183,
+        "timeslot_id": 74,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 184,
+        "timeslot_id": 97,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 185,
+        "timeslot_id": 9,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 186,
+        "timeslot_id": 74,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 187,
+        "timeslot_id": 32,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 188,
+        "timeslot_id": 58,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 189,
+        "timeslot_id": 6,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 190,
+        "timeslot_id": 28,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 191,
+        "timeslot_id": 59,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 192,
+        "timeslot_id": 93,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 193,
+        "timeslot_id": 58,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 194,
+        "timeslot_id": 34,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 195,
+        "timeslot_id": 32,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 196,
+        "timeslot_id": 58,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 197,
+        "timeslot_id": 60,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 198,
+        "timeslot_id": 65,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 199,
+        "timeslot_id": 18,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 200,
+        "timeslot_id": 72,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 201,
+        "timeslot_id": 74,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 202,
+        "timeslot_id": 83,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 203,
+        "timeslot_id": 15,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 204,
+        "timeslot_id": 62,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 205,
+        "timeslot_id": 46,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 206,
+        "timeslot_id": 81,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 207,
+        "timeslot_id": 24,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 208,
+        "timeslot_id": 95,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 209,
+        "timeslot_id": 6,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 210,
+        "timeslot_id": 5,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 211,
+        "timeslot_id": 15,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 212,
+        "timeslot_id": 67,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 213,
+        "timeslot_id": 8,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 214,
+        "timeslot_id": 89,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 215,
+        "timeslot_id": 93,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 216,
+        "timeslot_id": 59,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 217,
+        "timeslot_id": 84,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 218,
+        "timeslot_id": 76,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 219,
+        "timeslot_id": 33,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 220,
+        "timeslot_id": 5,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 221,
+        "timeslot_id": 5,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 222,
+        "timeslot_id": 88,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 223,
+        "timeslot_id": 64,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 224,
+        "timeslot_id": 9,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 225,
+        "timeslot_id": 93,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 226,
+        "timeslot_id": 95,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 227,
+        "timeslot_id": 6,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 228,
+        "timeslot_id": 22,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 229,
+        "timeslot_id": 26,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 230,
+        "timeslot_id": 60,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 231,
+        "timeslot_id": 13,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 232,
+        "timeslot_id": 24,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 233,
+        "timeslot_id": 67,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 234,
+        "timeslot_id": 28,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 235,
+        "timeslot_id": 58,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 236,
+        "timeslot_id": 95,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 237,
+        "timeslot_id": 46,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 238,
+        "timeslot_id": 26,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 239,
+        "timeslot_id": 65,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 240,
+        "timeslot_id": 31,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 241,
+        "timeslot_id": 93,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 242,
+        "timeslot_id": 24,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 243,
+        "timeslot_id": 13,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 244,
+        "timeslot_id": 28,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 245,
+        "timeslot_id": 72,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 246,
+        "timeslot_id": 26,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 247,
+        "timeslot_id": 84,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 248,
+        "timeslot_id": 66,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 249,
+        "timeslot_id": 18,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 250,
+        "timeslot_id": 34,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 251,
+        "timeslot_id": 88,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 252,
+        "timeslot_id": 66,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 253,
+        "timeslot_id": 84,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 254,
+        "timeslot_id": 97,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 255,
+        "timeslot_id": 60,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 256,
+        "timeslot_id": 93,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 257,
+        "timeslot_id": 11,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 258,
+        "timeslot_id": 59,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 259,
+        "timeslot_id": 74,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 260,
+        "timeslot_id": 8,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 261,
+        "timeslot_id": 11,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 262,
+        "timeslot_id": 48,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 263,
+        "timeslot_id": 72,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 264,
+        "timeslot_id": 15,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 265,
+        "timeslot_id": 96,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 266,
+        "timeslot_id": 83,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 267,
+        "timeslot_id": 81,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 268,
+        "timeslot_id": 76,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 269,
+        "timeslot_id": 59,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 270,
+        "timeslot_id": 57,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 271,
+        "timeslot_id": 31,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 272,
+        "timeslot_id": 57,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 273,
+        "timeslot_id": 72,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 274,
+        "timeslot_id": 16,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 275,
+        "timeslot_id": 21,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 276,
+        "timeslot_id": 31,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 277,
+        "timeslot_id": 67,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 278,
+        "timeslot_id": 32,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 279,
+        "timeslot_id": 62,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 280,
+        "timeslot_id": 15,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 281,
+        "timeslot_id": 64,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 282,
+        "timeslot_id": 83,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 283,
+        "timeslot_id": 73,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 284,
+        "timeslot_id": 76,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 285,
+        "timeslot_id": 9,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 286,
+        "timeslot_id": 57,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 287,
+        "timeslot_id": 1,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 288,
+        "timeslot_id": 93,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 289,
+        "timeslot_id": 45,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 290,
+        "timeslot_id": 81,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 291,
+        "timeslot_id": 98,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 292,
+        "timeslot_id": 58,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 293,
+        "timeslot_id": 33,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 294,
+        "timeslot_id": 66,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 295,
+        "timeslot_id": 73,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 296,
+        "timeslot_id": 81,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 297,
+        "timeslot_id": 58,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 298,
+        "timeslot_id": 3,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 299,
+        "timeslot_id": 22,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 300,
+        "timeslot_id": 57,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 301,
+        "timeslot_id": 89,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 302,
+        "timeslot_id": 89,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 303,
+        "timeslot_id": 16,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 304,
+        "timeslot_id": 1,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 305,
+        "timeslot_id": 14,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 306,
+        "timeslot_id": 57,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 307,
+        "timeslot_id": 88,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 308,
+        "timeslot_id": 62,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 309,
+        "timeslot_id": 6,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 310,
+        "timeslot_id": 60,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 311,
+        "timeslot_id": 25,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 312,
+        "timeslot_id": 84,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 313,
+        "timeslot_id": 19,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 314,
+        "timeslot_id": 32,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 315,
+        "timeslot_id": 65,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 316,
+        "timeslot_id": 21,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 317,
+        "timeslot_id": 18,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 318,
+        "timeslot_id": 13,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 319,
+        "timeslot_id": 61,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 320,
+        "timeslot_id": 15,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 321,
+        "timeslot_id": 88,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 322,
+        "timeslot_id": 76,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 323,
+        "timeslot_id": 97,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 324,
+        "timeslot_id": 25,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 325,
+        "timeslot_id": 8,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 326,
+        "timeslot_id": 45,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 327,
+        "timeslot_id": 9,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 328,
+        "timeslot_id": 11,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 329,
+        "timeslot_id": 98,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 330,
+        "timeslot_id": 62,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 331,
+        "timeslot_id": 26,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 332,
+        "timeslot_id": 3,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 333,
+        "timeslot_id": 1,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 334,
+        "timeslot_id": 98,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 335,
+        "timeslot_id": 18,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 336,
+        "timeslot_id": 89,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 337,
+        "timeslot_id": 58,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 338,
+        "timeslot_id": 89,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 339,
+        "timeslot_id": 84,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 340,
+        "timeslot_id": 5,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 341,
+        "timeslot_id": 83,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 342,
+        "timeslot_id": 84,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 343,
+        "timeslot_id": 57,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 344,
+        "timeslot_id": 24,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 345,
+        "timeslot_id": 25,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 346,
+        "timeslot_id": 60,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 347,
+        "timeslot_id": 66,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 348,
+        "timeslot_id": 86,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 349,
+        "timeslot_id": 90,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 350,
+        "timeslot_id": 6,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 351,
+        "timeslot_id": 98,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 352,
+        "timeslot_id": 84,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 353,
+        "timeslot_id": 98,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 354,
+        "timeslot_id": 86,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 355,
+        "timeslot_id": 54,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 356,
+        "timeslot_id": 60,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 357,
+        "timeslot_id": 16,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 358,
+        "timeslot_id": 45,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 359,
+        "timeslot_id": 98,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 360,
+        "timeslot_id": 22,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 361,
+        "timeslot_id": 72,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 362,
+        "timeslot_id": 29,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 363,
+        "timeslot_id": 88,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 364,
+        "timeslot_id": 5,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 365,
+        "timeslot_id": 90,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 366,
+        "timeslot_id": 8,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 367,
+        "timeslot_id": 3,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 368,
+        "timeslot_id": 86,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 369,
+        "timeslot_id": 16,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 370,
+        "timeslot_id": 97,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 371,
+        "timeslot_id": 3,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 372,
+        "timeslot_id": 31,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 373,
+        "timeslot_id": 76,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 374,
+        "timeslot_id": 8,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 375,
+        "timeslot_id": 88,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 376,
+        "timeslot_id": 14,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 377,
+        "timeslot_id": 74,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 378,
+        "timeslot_id": 72,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 379,
+        "timeslot_id": 31,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 380,
+        "timeslot_id": 18,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 381,
+        "timeslot_id": 89,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 382,
+        "timeslot_id": 96,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 383,
+        "timeslot_id": 57,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 384,
+        "timeslot_id": 46,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 385,
+        "timeslot_id": 87,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 386,
+        "timeslot_id": 46,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 387,
+        "timeslot_id": 88,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 388,
+        "timeslot_id": 88,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 389,
+        "timeslot_id": 8,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 390,
+        "timeslot_id": 22,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 391,
+        "timeslot_id": 45,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 392,
+        "timeslot_id": 76,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 393,
+        "timeslot_id": 87,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 394,
+        "timeslot_id": 88,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 395,
+        "timeslot_id": 19,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 396,
+        "timeslot_id": 3,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 397,
+        "timeslot_id": 34,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 398,
+        "timeslot_id": 18,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 399,
+        "timeslot_id": 74,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 400,
+        "timeslot_id": 60,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 401,
+        "timeslot_id": 59,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 402,
+        "timeslot_id": 98,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 403,
+        "timeslot_id": 98,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 404,
+        "timeslot_id": 86,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 405,
+        "timeslot_id": 25,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 406,
+        "timeslot_id": 26,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 407,
+        "timeslot_id": 97,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 408,
+        "timeslot_id": 13,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 409,
+        "timeslot_id": 81,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 410,
+        "timeslot_id": 19,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 411,
+        "timeslot_id": 57,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 412,
+        "timeslot_id": 33,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 413,
+        "timeslot_id": 74,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 414,
+        "timeslot_id": 58,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 415,
+        "timeslot_id": 13,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 416,
+        "timeslot_id": 67,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 417,
+        "timeslot_id": 18,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 418,
+        "timeslot_id": 34,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 419,
+        "timeslot_id": 76,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 420,
+        "timeslot_id": 45,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 421,
+        "timeslot_id": 14,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 422,
+        "timeslot_id": 29,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 423,
+        "timeslot_id": 34,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 424,
+        "timeslot_id": 45,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 425,
+        "timeslot_id": 88,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 426,
+        "timeslot_id": 74,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 427,
+        "timeslot_id": 48,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 428,
+        "timeslot_id": 81,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 429,
+        "timeslot_id": 84,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 430,
+        "timeslot_id": 8,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 431,
+        "timeslot_id": 79,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 432,
+        "timeslot_id": 14,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 433,
+        "timeslot_id": 90,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 434,
+        "timeslot_id": 9,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 435,
+        "timeslot_id": 24,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 436,
+        "timeslot_id": 74,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 437,
+        "timeslot_id": 24,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 438,
+        "timeslot_id": 11,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 439,
+        "timeslot_id": 65,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 440,
+        "timeslot_id": 95,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 441,
+        "timeslot_id": 96,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 442,
+        "timeslot_id": 74,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 443,
+        "timeslot_id": 22,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 444,
+        "timeslot_id": 9,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 445,
+        "timeslot_id": 29,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 446,
+        "timeslot_id": 90,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 447,
+        "timeslot_id": 66,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 448,
+        "timeslot_id": 11,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 449,
+        "timeslot_id": 45,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 450,
+        "timeslot_id": 60,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 451,
+        "timeslot_id": 60,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 452,
+        "timeslot_id": 14,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 453,
+        "timeslot_id": 62,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 454,
+        "timeslot_id": 67,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 455,
+        "timeslot_id": 1,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 456,
+        "timeslot_id": 87,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 457,
+        "timeslot_id": 90,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 458,
+        "timeslot_id": 64,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 459,
+        "timeslot_id": 16,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 460,
+        "timeslot_id": 18,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 461,
+        "timeslot_id": 15,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 462,
+        "timeslot_id": 6,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 463,
+        "timeslot_id": 74,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 464,
+        "timeslot_id": 61,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 465,
+        "timeslot_id": 13,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 466,
+        "timeslot_id": 8,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 467,
+        "timeslot_id": 25,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 468,
+        "timeslot_id": 65,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 469,
+        "timeslot_id": 15,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 470,
+        "timeslot_id": 19,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 471,
+        "timeslot_id": 22,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 472,
+        "timeslot_id": 59,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 473,
+        "timeslot_id": 9,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 474,
+        "timeslot_id": 59,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 475,
+        "timeslot_id": 33,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 476,
+        "timeslot_id": 76,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 477,
+        "timeslot_id": 11,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 478,
+        "timeslot_id": 33,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 479,
+        "timeslot_id": 65,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 480,
+        "timeslot_id": 73,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 481,
+        "timeslot_id": 1,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 482,
+        "timeslot_id": 13,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 483,
+        "timeslot_id": 81,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 484,
+        "timeslot_id": 54,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 485,
+        "timeslot_id": 62,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 486,
+        "timeslot_id": 48,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 487,
+        "timeslot_id": 19,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 488,
+        "timeslot_id": 72,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 489,
+        "timeslot_id": 67,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 490,
+        "timeslot_id": 26,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 491,
+        "timeslot_id": 84,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 492,
+        "timeslot_id": 83,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 493,
+        "timeslot_id": 8,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 494,
+        "timeslot_id": 16,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 495,
+        "timeslot_id": 26,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 496,
+        "timeslot_id": 18,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 497,
+        "timeslot_id": 31,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 498,
+        "timeslot_id": 11,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 499,
+        "timeslot_id": 66,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 500,
+        "timeslot_id": 87,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 501,
+        "timeslot_id": 89,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 502,
+        "timeslot_id": 60,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 503,
+        "timeslot_id": 16,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 504,
+        "timeslot_id": 97,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 505,
+        "timeslot_id": 24,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 506,
+        "timeslot_id": 96,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 507,
+        "timeslot_id": 93,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 508,
+        "timeslot_id": 73,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 509,
+        "timeslot_id": 93,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 510,
+        "timeslot_id": 67,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 511,
+        "timeslot_id": 45,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 512,
+        "timeslot_id": 3,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 513,
+        "timeslot_id": 48,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 514,
+        "timeslot_id": 86,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 515,
+        "timeslot_id": 22,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 516,
+        "timeslot_id": 95,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 517,
+        "timeslot_id": 97,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 518,
+        "timeslot_id": 34,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 519,
+        "timeslot_id": 62,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 520,
+        "timeslot_id": 89,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 521,
+        "timeslot_id": 54,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 522,
+        "timeslot_id": 24,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 523,
+        "timeslot_id": 28,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 524,
+        "timeslot_id": 1,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 525,
+        "timeslot_id": 25,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 526,
+        "timeslot_id": 3,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 527,
+        "timeslot_id": 5,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 528,
+        "timeslot_id": 96,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 529,
+        "timeslot_id": 66,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 530,
+        "timeslot_id": 15,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 531,
+        "timeslot_id": 33,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 532,
+        "timeslot_id": 13,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 533,
+        "timeslot_id": 62,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 534,
+        "timeslot_id": 72,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 535,
+        "timeslot_id": 96,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 536,
+        "timeslot_id": 25,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 537,
+        "timeslot_id": 93,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 538,
+        "timeslot_id": 83,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 539,
+        "timeslot_id": 87,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 540,
+        "timeslot_id": 54,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 541,
+        "timeslot_id": 98,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 542,
+        "timeslot_id": 67,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 543,
+        "timeslot_id": 64,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 544,
+        "timeslot_id": 64,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 545,
+        "timeslot_id": 97,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 546,
+        "timeslot_id": 60,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 547,
+        "timeslot_id": 15,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 548,
+        "timeslot_id": 60,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 549,
+        "timeslot_id": 98,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 550,
+        "timeslot_id": 57,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 551,
+        "timeslot_id": 57,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 552,
+        "timeslot_id": 25,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 553,
+        "timeslot_id": 33,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 554,
+        "timeslot_id": 32,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 555,
+        "timeslot_id": 5,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 556,
+        "timeslot_id": 61,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 557,
+        "timeslot_id": 28,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 558,
+        "timeslot_id": 84,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 559,
+        "timeslot_id": 60,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 560,
+        "timeslot_id": 21,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 561,
+        "timeslot_id": 72,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 562,
+        "timeslot_id": 28,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 563,
+        "timeslot_id": 45,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 564,
+        "timeslot_id": 79,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 565,
+        "timeslot_id": 15,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 566,
+        "timeslot_id": 73,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 567,
+        "timeslot_id": 86,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 568,
+        "timeslot_id": 65,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 569,
+        "timeslot_id": 65,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 570,
+        "timeslot_id": 73,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 571,
+        "timeslot_id": 95,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 572,
+        "timeslot_id": 54,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 573,
+        "timeslot_id": 72,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 574,
+        "timeslot_id": 11,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 575,
+        "timeslot_id": 34,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 576,
+        "timeslot_id": 72,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 577,
+        "timeslot_id": 65,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 578,
+        "timeslot_id": 15,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 579,
+        "timeslot_id": 96,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 580,
+        "timeslot_id": 72,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 581,
+        "timeslot_id": 31,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 582,
+        "timeslot_id": 9,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 583,
+        "timeslot_id": 31,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 584,
+        "timeslot_id": 59,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 585,
+        "timeslot_id": 90,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 586,
+        "timeslot_id": 46,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 587,
+        "timeslot_id": 19,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 588,
+        "timeslot_id": 15,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 589,
+        "timeslot_id": 59,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 590,
+        "timeslot_id": 25,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 591,
+        "timeslot_id": 28,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 592,
+        "timeslot_id": 73,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 593,
+        "timeslot_id": 84,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 594,
+        "timeslot_id": 18,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 595,
+        "timeslot_id": 31,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 596,
+        "timeslot_id": 54,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 597,
+        "timeslot_id": 79,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 598,
+        "timeslot_id": 89,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 599,
+        "timeslot_id": 86,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 600,
+        "timeslot_id": 90,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 601,
+        "timeslot_id": 18,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 602,
+        "timeslot_id": 32,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 603,
+        "timeslot_id": 98,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 604,
+        "timeslot_id": 24,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 605,
+        "timeslot_id": 98,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 606,
+        "timeslot_id": 3,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 607,
+        "timeslot_id": 34,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 608,
+        "timeslot_id": 67,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 609,
+        "timeslot_id": 9,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 610,
+        "timeslot_id": 46,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 611,
+        "timeslot_id": 98,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 612,
+        "timeslot_id": 65,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 613,
+        "timeslot_id": 29,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 614,
+        "timeslot_id": 46,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 615,
+        "timeslot_id": 34,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 616,
+        "timeslot_id": 8,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 617,
+        "timeslot_id": 6,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 618,
+        "timeslot_id": 59,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 619,
+        "timeslot_id": 32,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 620,
+        "timeslot_id": 6,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 621,
+        "timeslot_id": 13,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 622,
+        "timeslot_id": 19,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 623,
+        "timeslot_id": 84,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 624,
+        "timeslot_id": 93,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 625,
+        "timeslot_id": 18,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 626,
+        "timeslot_id": 6,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 627,
+        "timeslot_id": 98,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 628,
+        "timeslot_id": 8,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 629,
+        "timeslot_id": 87,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 630,
+        "timeslot_id": 90,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 631,
+        "timeslot_id": 73,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 632,
+        "timeslot_id": 79,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 633,
+        "timeslot_id": 83,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 634,
+        "timeslot_id": 58,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 635,
+        "timeslot_id": 16,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 636,
+        "timeslot_id": 13,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 637,
+        "timeslot_id": 5,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 638,
+        "timeslot_id": 54,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 639,
+        "timeslot_id": 48,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 640,
+        "timeslot_id": 1,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 641,
+        "timeslot_id": 15,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 642,
+        "timeslot_id": 13,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 643,
+        "timeslot_id": 28,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 644,
+        "timeslot_id": 64,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 645,
+        "timeslot_id": 62,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 646,
+        "timeslot_id": 6,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 647,
+        "timeslot_id": 48,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 648,
+        "timeslot_id": 62,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 649,
+        "timeslot_id": 54,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 650,
+        "timeslot_id": 88,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 651,
+        "timeslot_id": 31,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 652,
+        "timeslot_id": 54,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 653,
+        "timeslot_id": 3,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 654,
+        "timeslot_id": 87,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 655,
+        "timeslot_id": 15,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 656,
+        "timeslot_id": 87,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 657,
+        "timeslot_id": 22,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 658,
+        "timeslot_id": 9,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 659,
+        "timeslot_id": 54,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 660,
+        "timeslot_id": 65,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 661,
+        "timeslot_id": 74,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 662,
+        "timeslot_id": 83,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 663,
+        "timeslot_id": 87,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 664,
+        "timeslot_id": 83,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 665,
+        "timeslot_id": 59,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 666,
+        "timeslot_id": 89,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 667,
+        "timeslot_id": 88,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 668,
+        "timeslot_id": 88,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 669,
+        "timeslot_id": 25,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 670,
+        "timeslot_id": 81,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 671,
+        "timeslot_id": 76,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 672,
+        "timeslot_id": 74,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 673,
+        "timeslot_id": 45,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 674,
+        "timeslot_id": 95,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 675,
+        "timeslot_id": 95,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 676,
+        "timeslot_id": 86,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 677,
+        "timeslot_id": 22,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 678,
+        "timeslot_id": 3,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 679,
+        "timeslot_id": 18,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 680,
+        "timeslot_id": 62,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 681,
+        "timeslot_id": 28,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 682,
+        "timeslot_id": 13,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 683,
+        "timeslot_id": 86,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 684,
+        "timeslot_id": 48,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 685,
+        "timeslot_id": 3,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 686,
+        "timeslot_id": 76,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 687,
+        "timeslot_id": 19,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 688,
+        "timeslot_id": 64,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 689,
+        "timeslot_id": 57,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 690,
+        "timeslot_id": 48,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 691,
+        "timeslot_id": 48,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 692,
+        "timeslot_id": 34,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 693,
+        "timeslot_id": 89,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 694,
+        "timeslot_id": 26,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 695,
+        "timeslot_id": 24,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 696,
+        "timeslot_id": 48,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 697,
+        "timeslot_id": 64,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 698,
+        "timeslot_id": 18,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 699,
+        "timeslot_id": 87,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 700,
+        "timeslot_id": 73,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 701,
+        "timeslot_id": 58,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 702,
+        "timeslot_id": 26,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 703,
+        "timeslot_id": 64,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 704,
+        "timeslot_id": 29,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 705,
+        "timeslot_id": 14,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 706,
+        "timeslot_id": 66,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 707,
+        "timeslot_id": 28,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 708,
+        "timeslot_id": 1,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 709,
+        "timeslot_id": 83,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 710,
+        "timeslot_id": 31,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 711,
+        "timeslot_id": 65,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 712,
+        "timeslot_id": 57,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 713,
+        "timeslot_id": 9,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 714,
+        "timeslot_id": 61,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 715,
+        "timeslot_id": 61,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 716,
+        "timeslot_id": 81,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 717,
+        "timeslot_id": 58,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 718,
+        "timeslot_id": 9,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 719,
+        "timeslot_id": 64,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 720,
+        "timeslot_id": 62,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 721,
+        "timeslot_id": 45,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 722,
+        "timeslot_id": 66,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 723,
+        "timeslot_id": 6,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 724,
+        "timeslot_id": 89,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 725,
+        "timeslot_id": 33,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 726,
+        "timeslot_id": 62,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 727,
+        "timeslot_id": 31,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 728,
+        "timeslot_id": 16,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 729,
+        "timeslot_id": 22,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 730,
+        "timeslot_id": 98,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 731,
+        "timeslot_id": 62,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 732,
+        "timeslot_id": 18,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 733,
+        "timeslot_id": 64,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 734,
+        "timeslot_id": 86,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 735,
+        "timeslot_id": 3,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 736,
+        "timeslot_id": 61,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 737,
+        "timeslot_id": 33,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 738,
+        "timeslot_id": 6,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 739,
+        "timeslot_id": 87,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 740,
+        "timeslot_id": 15,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 741,
+        "timeslot_id": 84,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 742,
+        "timeslot_id": 45,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 743,
+        "timeslot_id": 14,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 744,
+        "timeslot_id": 26,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 745,
+        "timeslot_id": 64,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 746,
+        "timeslot_id": 18,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 747,
+        "timeslot_id": 16,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 748,
+        "timeslot_id": 79,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 749,
+        "timeslot_id": 98,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 750,
+        "timeslot_id": 74,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 751,
+        "timeslot_id": 31,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 752,
+        "timeslot_id": 21,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 753,
+        "timeslot_id": 45,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 754,
+        "timeslot_id": 74,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 755,
+        "timeslot_id": 90,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 756,
+        "timeslot_id": 3,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 757,
+        "timeslot_id": 16,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 758,
+        "timeslot_id": 1,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 759,
+        "timeslot_id": 21,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 760,
+        "timeslot_id": 96,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 761,
+        "timeslot_id": 18,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 762,
+        "timeslot_id": 79,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 763,
+        "timeslot_id": 57,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 764,
+        "timeslot_id": 93,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 765,
+        "timeslot_id": 66,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 766,
+        "timeslot_id": 18,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 767,
+        "timeslot_id": 18,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 768,
+        "timeslot_id": 21,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 769,
+        "timeslot_id": 79,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 770,
+        "timeslot_id": 83,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 771,
+        "timeslot_id": 62,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 772,
+        "timeslot_id": 81,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 773,
+        "timeslot_id": 32,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 774,
+        "timeslot_id": 79,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 775,
+        "timeslot_id": 72,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 776,
+        "timeslot_id": 26,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 777,
+        "timeslot_id": 14,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 778,
+        "timeslot_id": 8,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 779,
+        "timeslot_id": 62,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 780,
+        "timeslot_id": 88,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 781,
+        "timeslot_id": 48,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 782,
+        "timeslot_id": 67,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 783,
+        "timeslot_id": 32,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 784,
+        "timeslot_id": 65,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 785,
+        "timeslot_id": 96,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 786,
+        "timeslot_id": 86,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 787,
+        "timeslot_id": 29,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 788,
+        "timeslot_id": 29,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 789,
+        "timeslot_id": 29,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 790,
+        "timeslot_id": 16,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 791,
+        "timeslot_id": 6,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 792,
+        "timeslot_id": 81,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 793,
+        "timeslot_id": 88,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 794,
+        "timeslot_id": 73,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 795,
+        "timeslot_id": 19,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 796,
+        "timeslot_id": 48,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 797,
+        "timeslot_id": 81,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 798,
+        "timeslot_id": 16,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 799,
+        "timeslot_id": 8,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 800,
+        "timeslot_id": 87,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 801,
+        "timeslot_id": 28,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 802,
+        "timeslot_id": 96,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 803,
+        "timeslot_id": 46,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 804,
+        "timeslot_id": 33,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 805,
+        "timeslot_id": 61,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 806,
+        "timeslot_id": 66,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 807,
+        "timeslot_id": 95,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 808,
+        "timeslot_id": 90,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 809,
+        "timeslot_id": 84,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 810,
+        "timeslot_id": 57,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 811,
+        "timeslot_id": 61,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 812,
+        "timeslot_id": 81,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 813,
+        "timeslot_id": 97,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 814,
+        "timeslot_id": 89,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 815,
+        "timeslot_id": 29,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 816,
+        "timeslot_id": 13,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 817,
+        "timeslot_id": 6,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 818,
+        "timeslot_id": 57,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 819,
+        "timeslot_id": 79,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 820,
+        "timeslot_id": 59,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 821,
+        "timeslot_id": 5,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 822,
+        "timeslot_id": 76,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 823,
+        "timeslot_id": 97,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 824,
+        "timeslot_id": 61,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 825,
+        "timeslot_id": 96,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 826,
+        "timeslot_id": 48,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 827,
+        "timeslot_id": 32,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 828,
+        "timeslot_id": 26,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 829,
+        "timeslot_id": 67,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 830,
+        "timeslot_id": 96,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 831,
+        "timeslot_id": 96,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 832,
+        "timeslot_id": 28,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 833,
+        "timeslot_id": 1,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 834,
+        "timeslot_id": 97,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 835,
+        "timeslot_id": 97,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 836,
+        "timeslot_id": 96,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 837,
+        "timeslot_id": 31,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 838,
+        "timeslot_id": 22,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 839,
+        "timeslot_id": 48,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 840,
+        "timeslot_id": 67,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 841,
+        "timeslot_id": 72,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 842,
+        "timeslot_id": 18,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 843,
+        "timeslot_id": 5,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 844,
+        "timeslot_id": 57,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 845,
+        "timeslot_id": 48,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 846,
+        "timeslot_id": 81,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 847,
+        "timeslot_id": 86,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 848,
+        "timeslot_id": 29,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 849,
+        "timeslot_id": 84,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 850,
+        "timeslot_id": 15,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 851,
+        "timeslot_id": 32,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 852,
+        "timeslot_id": 73,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 853,
+        "timeslot_id": 32,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 854,
+        "timeslot_id": 95,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 855,
+        "timeslot_id": 29,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 856,
+        "timeslot_id": 34,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 857,
+        "timeslot_id": 90,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 858,
+        "timeslot_id": 14,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 859,
+        "timeslot_id": 45,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 860,
+        "timeslot_id": 86,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 861,
+        "timeslot_id": 97,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 862,
+        "timeslot_id": 74,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 863,
+        "timeslot_id": 98,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 864,
+        "timeslot_id": 25,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 865,
+        "timeslot_id": 46,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 866,
+        "timeslot_id": 58,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 867,
+        "timeslot_id": 48,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 868,
+        "timeslot_id": 87,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 869,
+        "timeslot_id": 33,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 870,
+        "timeslot_id": 34,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 871,
+        "timeslot_id": 95,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 872,
+        "timeslot_id": 15,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 873,
+        "timeslot_id": 9,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 874,
+        "timeslot_id": 31,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 875,
+        "timeslot_id": 79,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 876,
+        "timeslot_id": 86,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 877,
+        "timeslot_id": 81,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 878,
+        "timeslot_id": 13,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 879,
+        "timeslot_id": 46,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 880,
+        "timeslot_id": 46,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 881,
+        "timeslot_id": 96,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 882,
+        "timeslot_id": 28,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 883,
+        "timeslot_id": 21,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 884,
+        "timeslot_id": 87,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 885,
+        "timeslot_id": 62,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 886,
+        "timeslot_id": 46,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 887,
+        "timeslot_id": 72,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 888,
+        "timeslot_id": 5,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 889,
+        "timeslot_id": 60,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 890,
+        "timeslot_id": 74,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 891,
+        "timeslot_id": 83,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 892,
+        "timeslot_id": 64,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 893,
+        "timeslot_id": 79,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 894,
+        "timeslot_id": 28,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 895,
+        "timeslot_id": 32,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 896,
+        "timeslot_id": 83,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 897,
+        "timeslot_id": 96,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 898,
+        "timeslot_id": 72,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 899,
+        "timeslot_id": 64,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 900,
+        "timeslot_id": 72,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 901,
+        "timeslot_id": 5,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 902,
+        "timeslot_id": 54,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 903,
+        "timeslot_id": 13,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 904,
+        "timeslot_id": 90,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 905,
+        "timeslot_id": 29,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 906,
+        "timeslot_id": 73,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 907,
+        "timeslot_id": 59,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 908,
+        "timeslot_id": 59,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 909,
+        "timeslot_id": 32,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 910,
+        "timeslot_id": 73,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 911,
+        "timeslot_id": 18,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 912,
+        "timeslot_id": 60,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 913,
+        "timeslot_id": 33,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 914,
+        "timeslot_id": 19,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 915,
+        "timeslot_id": 76,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 916,
+        "timeslot_id": 79,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 917,
+        "timeslot_id": 26,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 918,
+        "timeslot_id": 60,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 919,
+        "timeslot_id": 31,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 920,
+        "timeslot_id": 48,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 921,
+        "timeslot_id": 5,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 922,
+        "timeslot_id": 58,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 923,
+        "timeslot_id": 66,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 924,
+        "timeslot_id": 32,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 925,
+        "timeslot_id": 11,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 926,
+        "timeslot_id": 22,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 927,
+        "timeslot_id": 28,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 928,
+        "timeslot_id": 59,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 929,
+        "timeslot_id": 31,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 930,
+        "timeslot_id": 3,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 931,
+        "timeslot_id": 45,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 932,
+        "timeslot_id": 22,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 933,
+        "timeslot_id": 98,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 934,
+        "timeslot_id": 1,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 935,
+        "timeslot_id": 19,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 936,
+        "timeslot_id": 62,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 937,
+        "timeslot_id": 34,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 938,
+        "timeslot_id": 72,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 939,
+        "timeslot_id": 34,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 940,
+        "timeslot_id": 25,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 941,
+        "timeslot_id": 5,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 942,
+        "timeslot_id": 34,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 943,
+        "timeslot_id": 89,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 944,
+        "timeslot_id": 22,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 945,
+        "timeslot_id": 45,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 946,
+        "timeslot_id": 3,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 947,
+        "timeslot_id": 24,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 948,
+        "timeslot_id": 9,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 949,
+        "timeslot_id": 6,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 950,
+        "timeslot_id": 79,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 951,
+        "timeslot_id": 25,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 952,
+        "timeslot_id": 90,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 953,
+        "timeslot_id": 54,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 954,
+        "timeslot_id": 65,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 955,
+        "timeslot_id": 61,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 956,
+        "timeslot_id": 81,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 957,
+        "timeslot_id": 58,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 958,
+        "timeslot_id": 6,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 959,
+        "timeslot_id": 74,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 960,
+        "timeslot_id": 95,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 961,
+        "timeslot_id": 95,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 962,
+        "timeslot_id": 54,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 963,
+        "timeslot_id": 84,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 964,
+        "timeslot_id": 89,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 965,
+        "timeslot_id": 67,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 966,
+        "timeslot_id": 66,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 967,
+        "timeslot_id": 1,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 968,
+        "timeslot_id": 93,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 969,
+        "timeslot_id": 21,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 970,
+        "timeslot_id": 60,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 971,
+        "timeslot_id": 87,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 972,
+        "timeslot_id": 18,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 973,
+        "timeslot_id": 16,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 974,
+        "timeslot_id": 21,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 975,
+        "timeslot_id": 58,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 976,
+        "timeslot_id": 11,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 977,
+        "timeslot_id": 61,
+        "classroom_id": 16
+    },
+    {
+        "lecture_id": 978,
+        "timeslot_id": 46,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 979,
+        "timeslot_id": 26,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 980,
+        "timeslot_id": 93,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 981,
+        "timeslot_id": 13,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 982,
+        "timeslot_id": 15,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 983,
+        "timeslot_id": 15,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 984,
+        "timeslot_id": 1,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 985,
+        "timeslot_id": 86,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 986,
+        "timeslot_id": 79,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 987,
+        "timeslot_id": 22,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 988,
+        "timeslot_id": 19,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 989,
+        "timeslot_id": 88,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 990,
+        "timeslot_id": 65,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 991,
+        "timeslot_id": 46,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 992,
+        "timeslot_id": 79,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 993,
+        "timeslot_id": 83,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 994,
+        "timeslot_id": 64,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 995,
+        "timeslot_id": 93,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 996,
+        "timeslot_id": 67,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 997,
+        "timeslot_id": 93,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 998,
+        "timeslot_id": 59,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 999,
+        "timeslot_id": 21,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 1000,
+        "timeslot_id": 26,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 1001,
+        "timeslot_id": 9,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 1002,
+        "timeslot_id": 9,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 1003,
+        "timeslot_id": 57,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 1004,
+        "timeslot_id": 31,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 1005,
+        "timeslot_id": 26,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 1006,
+        "timeslot_id": 6,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 1007,
+        "timeslot_id": 24,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 1008,
+        "timeslot_id": 24,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 1009,
+        "timeslot_id": 58,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 1010,
+        "timeslot_id": 73,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 1011,
+        "timeslot_id": 96,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 1012,
+        "timeslot_id": 84,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 1013,
+        "timeslot_id": 11,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 1014,
+        "timeslot_id": 57,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 1015,
+        "timeslot_id": 67,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 1016,
+        "timeslot_id": 1,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 1017,
+        "timeslot_id": 28,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 1018,
+        "timeslot_id": 14,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 1019,
+        "timeslot_id": 29,
+        "classroom_id": 7
+    },
+    {
+        "lecture_id": 1020,
+        "timeslot_id": 46,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 1021,
+        "timeslot_id": 90,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 1022,
+        "timeslot_id": 58,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 1023,
+        "timeslot_id": 66,
+        "classroom_id": 5
+    },
+    {
+        "lecture_id": 1024,
+        "timeslot_id": 95,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 1025,
+        "timeslot_id": 98,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 1026,
+        "timeslot_id": 34,
+        "classroom_id": 11
+    },
+    {
+        "lecture_id": 1027,
+        "timeslot_id": 32,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 1028,
+        "timeslot_id": 24,
+        "classroom_id": 21
+    },
+    {
+        "lecture_id": 1029,
+        "timeslot_id": 66,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 1030,
+        "timeslot_id": 54,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 1031,
+        "timeslot_id": 5,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 1032,
+        "timeslot_id": 89,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 1033,
+        "timeslot_id": 15,
+        "classroom_id": 19
+    },
+    {
+        "lecture_id": 1034,
+        "timeslot_id": 79,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 1035,
+        "timeslot_id": 83,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 1036,
+        "timeslot_id": 46,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 1037,
+        "timeslot_id": 89,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 1038,
+        "timeslot_id": 67,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 1039,
+        "timeslot_id": 61,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 1040,
+        "timeslot_id": 76,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 1041,
+        "timeslot_id": 15,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 1042,
+        "timeslot_id": 33,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 1043,
+        "timeslot_id": 15,
+        "classroom_id": 30
+    },
+    {
+        "lecture_id": 1044,
+        "timeslot_id": 95,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 1045,
+        "timeslot_id": 90,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 1046,
+        "timeslot_id": 22,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 1047,
+        "timeslot_id": 89,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 1048,
+        "timeslot_id": 73,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 1049,
+        "timeslot_id": 93,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 1050,
+        "timeslot_id": 88,
+        "classroom_id": 24
+    },
+    {
+        "lecture_id": 1051,
+        "timeslot_id": 25,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 1052,
+        "timeslot_id": 61,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 1053,
+        "timeslot_id": 1,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 1054,
+        "timeslot_id": 32,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 1055,
+        "timeslot_id": 16,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 1056,
+        "timeslot_id": 79,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 1057,
+        "timeslot_id": 11,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 1058,
+        "timeslot_id": 29,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 1059,
+        "timeslot_id": 57,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 1060,
+        "timeslot_id": 74,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 1061,
+        "timeslot_id": 95,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 1062,
+        "timeslot_id": 14,
+        "classroom_id": 2
+    },
+    {
+        "lecture_id": 1063,
+        "timeslot_id": 62,
+        "classroom_id": 17
+    },
+    {
+        "lecture_id": 1064,
+        "timeslot_id": 5,
+        "classroom_id": 28
+    },
+    {
+        "lecture_id": 1065,
+        "timeslot_id": 25,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 1066,
+        "timeslot_id": 87,
+        "classroom_id": 29
+    },
+    {
+        "lecture_id": 1067,
+        "timeslot_id": 9,
+        "classroom_id": 26
+    },
+    {
+        "lecture_id": 1068,
+        "timeslot_id": 22,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 1069,
+        "timeslot_id": 81,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 1070,
+        "timeslot_id": 60,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 1071,
+        "timeslot_id": 19,
+        "classroom_id": 27
+    },
+    {
+        "lecture_id": 1072,
+        "timeslot_id": 33,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 1073,
+        "timeslot_id": 74,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 1074,
+        "timeslot_id": 22,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 1075,
+        "timeslot_id": 14,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 1076,
+        "timeslot_id": 14,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 1077,
+        "timeslot_id": 95,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 1078,
+        "timeslot_id": 1,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 1079,
+        "timeslot_id": 29,
+        "classroom_id": 3
+    },
+    {
+        "lecture_id": 1080,
+        "timeslot_id": 11,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 1081,
+        "timeslot_id": 18,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 1082,
+        "timeslot_id": 13,
+        "classroom_id": 10
+    },
+    {
+        "lecture_id": 1083,
+        "timeslot_id": 1,
+        "classroom_id": 12
+    },
+    {
+        "lecture_id": 1084,
+        "timeslot_id": 3,
+        "classroom_id": 25
+    },
+    {
+        "lecture_id": 1085,
+        "timeslot_id": 16,
+        "classroom_id": 4
+    },
+    {
+        "lecture_id": 1086,
+        "timeslot_id": 74,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 1087,
+        "timeslot_id": 28,
+        "classroom_id": 14
+    },
+    {
+        "lecture_id": 1088,
+        "timeslot_id": 3,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 1089,
+        "timeslot_id": 64,
+        "classroom_id": 22
+    },
+    {
+        "lecture_id": 1090,
+        "timeslot_id": 16,
+        "classroom_id": 13
+    },
+    {
+        "lecture_id": 1091,
+        "timeslot_id": 58,
+        "classroom_id": 9
+    },
+    {
+        "lecture_id": 1092,
+        "timeslot_id": 26,
+        "classroom_id": 23
+    },
+    {
+        "lecture_id": 1093,
+        "timeslot_id": 83,
+        "classroom_id": 1
+    },
+    {
+        "lecture_id": 1094,
+        "timeslot_id": 79,
+        "classroom_id": 20
+    },
+    {
+        "lecture_id": 1095,
+        "timeslot_id": 9,
+        "classroom_id": 15
+    },
+    {
+        "lecture_id": 1096,
+        "timeslot_id": 86,
+        "classroom_id": 8
+    },
+    {
+        "lecture_id": 1097,
+        "timeslot_id": 95,
+        "classroom_id": 6
+    },
+    {
+        "lecture_id": 1098,
+        "timeslot_id": 60,
+        "classroom_id": 18
+    },
+    {
+        "lecture_id": 1099,
+        "timeslot_id": 34,
+        "classroom_id": 29
+    }
+]

@@ -1,0 +1,70 @@
+# خوارزمية تحسين سمكة البخاخ (Puffer Fish Optimization)
+# التعليقات التالية تشرح كل جزء من الخوارزمية ويمكن استخدامها أثناء العرض التقديمي.
+
+PufferFishOptimization(ObjectiveFunction, NumAgents, MaxIterations, SearchSpaceBounds)
+
+# التهيئة
+# "أولاً، نقوم بتهيئة مجموعة من وكلاء السمكة المنتفخة (pufferfish) بشكل عشوائي ضمن فضاء البحث المحدد."
+Initialize a population of NumAgents (pufferfish) randomly within SearchSpaceBounds.
+
+# "لكل وكيل، نقوم بحساب قيمة الملاءمة (fitness) باستخدام دالة الهدف."
+For each agent i from 1 to NumAgents:
+    Evaluate Fitness(agent_i) using ObjectiveFunction.
+
+# "نحدد القائد، وهو الوكيل الذي يملك أفضل ملاءمة، ونخزنه كأفضل حل عالمي."
+Identify Leader = agent with the best fitness in the population.
+Store GlobalBestSolution = Leader.
+Store GlobalBestFitness = Fitness(Leader).
+
+# الحلقة الرئيسية للتحسين
+# "تعمل الحلقة الرئيسية لعدد محدد من التكرارات، حيث يتم تحديث كل وكيل في المجموعة."
+For iteration = 1 to MaxIterations:
+    For each agent i from 1 to NumAgents:
+
+        # مرحلة الاستكشاف (الحركة بالانتفاخ)
+        # "في مرحلة الاستكشاف، يستكشف كل وكيل فضاء البحث عن طريق الانتفاخ، أي التحرك في اتجاه عشوائي يتأثر بملاءمته."
+        # "عامل الانتفاخ يحدد مدى حركة الوكيل، ويعتمد على ملاءمته أو قيمة عشوائية."
+        Calculate InflationFactor_i (based on (Fitness(agent_i) - GlobalBestFitness) or random value).
+        Generate RandomDisplacementVector.
+        NewPosition_exploration = agent_i.Position + InflationFactor_i * RandomDisplacementVector.
+
+        # مرحلة الاستغلال (التجمع/اتباع القائد)
+        # "في مرحلة الاستغلال، يتحرك الوكلاء نحو القائد، محاكين سلوك التجمع لدى سمكة البخاخ."
+        # "عامل الجذب يحدد مدى قوة جذب الوكيل نحو القائد."
+        Calculate AttractionToLeaderFactor (based on a schooling parameter).
+        NewPosition_exploitation = agent_i.Position + AttractionToLeaderFactor * (Leader.Position - agent_i.Position) + OtherForagingMovements.
+
+        # الدمج أو الاختيار بين الاستكشاف والاستغلال
+        # "نختار بشكل احتمالي ما إذا كان الوكيل سيستكشف أو يستغل، بناءً على معدل الافتراس أو احتمال الاستكشاف."
+        If (random_value < PredationRate_or_ExplorationProbability):
+            agent_i.PotentialNewPosition = NewPosition_exploration
+        Else:
+            agent_i.PotentialNewPosition = NewPosition_exploitation
+
+        # التأكد من البقاء ضمن الحدود
+        # "نتأكد من أن الموضع الجديد للوكيل يبقى ضمن حدود فضاء البحث المسموح به."
+        Ensure agent_i.PotentialNewPosition is within SearchSpaceBounds.
+
+        # تقييم الملاءمة للموضع الجديد
+        # "نحسب قيمة الملاءمة للوكيل في موضعه الجديد المحتمل."
+        NewFitness = ObjectiveFunction(agent_i.PotentialNewPosition).
+
+        # تحديث موضع الوكيل إذا كان هناك تحسن
+        # "إذا كان الموضع الجديد أفضل، نقوم بتحديث موضع الوكيل وقيمة ملاءمته."
+        If NewFitness is better than Fitness(agent_i):
+            agent_i.Position = agent_i.PotentialNewPosition.
+            Fitness(agent_i) = NewFitness.
+
+        # تحديث القائد وأفضل حل عالمي إذا تم العثور على حل أفضل
+        # "إذا أصبح هذا الوكيل هو الأفضل في المجموعة، نقوم بتحديث القائد وأفضل حل عالمي."
+        If Fitness(agent_i) is better than GlobalBestFitness:
+            Leader = agent_i.
+            GlobalBestSolution = Leader.
+            GlobalBestFitness = Fitness(Leader).
+
+    # اختياري: تطبيق عوامل إضافية مثل النخبوية أو تحديث المعاملات بشكل تكيفي
+    # "يمكننا أيضاً تطبيق عوامل إضافية مثل النخبوية أو تعديل المعاملات أثناء التنفيذ."
+    Output: Iteration number, Current GlobalBestFitness.
+
+Return GlobalBestSolution, GlobalBestFitness.
+# "في النهاية، نعيد أفضل حل تم العثور عليه وقيمة ملاءمته بعد انتهاء جميع التكرارات." 

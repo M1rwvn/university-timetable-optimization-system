@@ -1,0 +1,53 @@
+PufferFishOptimization(ObjectiveFunction, NumAgents, MaxIterations, SearchSpaceBounds)
+
+// Initialization
+Initialize a population of NumAgents (pufferfish) randomly within SearchSpaceBounds.
+For each agent i from 1 to NumAgents:
+    Evaluate Fitness(agent_i) using ObjectiveFunction.
+Identify Leader = agent with the best fitness in the population.
+Store GlobalBestSolution = Leader.
+Store GlobalBestFitness = Fitness(Leader).
+
+// Main Optimization Loop
+For iteration = 1 to MaxIterations:
+    For each agent i from 1 to NumAgents:
+        // Exploration Phase (Inflation-based movement)
+        // Calculate an inflation factor or exploration step size.
+        // This can be influenced by the agent's fitness, its distance to the Leader, or a probabilistic model.
+        Calculate InflationFactor_i (based on (Fitness(agent_i) - GlobalBestFitness) or random value).
+        Generate RandomDisplacementVector.
+        NewPosition_exploration = agent_i.Position + InflationFactor_i * RandomDisplacementVector.
+
+        // Exploitation Phase (Schooling/Following Leader)
+        // Move towards the current best solution (Leader) or other promising solutions.
+        Calculate AttractionToLeaderFactor (based on a schooling parameter).
+        NewPosition_exploitation = agent_i.Position + AttractionToLeaderFactor * (Leader.Position - agent_i.Position) + OtherForagingMovements.
+
+        // Combine or select between exploration and exploitation moves
+        // This can be done probabilistically or adaptively.
+        If (random_value < PredationRate_or_ExplorationProbability):
+            agent_i.PotentialNewPosition = NewPosition_exploration
+        Else:
+            agent_i.PotentialNewPosition = NewPosition_exploitation
+
+        // Boundary Enforcement
+        Ensure agent_i.PotentialNewPosition is within SearchSpaceBounds.
+
+        // Fitness Evaluation of the new potential position
+        NewFitness = ObjectiveFunction(agent_i.PotentialNewPosition).
+
+        // Update agent's position if improvement is found
+        If NewFitness is better than Fitness(agent_i):
+            agent_i.Position = agent_i.PotentialNewPosition.
+            Fitness(agent_i) = NewFitness.
+
+        // Update Leader and GlobalBestSolution if a new best is found
+        If Fitness(agent_i) is better than GlobalBestFitness:
+            Leader = agent_i.
+            GlobalBestSolution = Leader.
+            GlobalBestFitness = Fitness(Leader).
+
+    // Optional: Apply other operators like elitism, or adaptive parameter updates.
+    Output: Iteration number, Current GlobalBestFitness.
+
+Return GlobalBestSolution, GlobalBestFitness. 

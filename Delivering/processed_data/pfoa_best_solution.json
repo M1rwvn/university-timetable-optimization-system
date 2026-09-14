@@ -1,0 +1,52 @@
+[
+    {
+        "lecture_id": "L001",
+        "timeslot_id": "T001",
+        "classroom_id": "R001"
+    },
+    {
+        "lecture_id": "L002",
+        "timeslot_id": "T002",
+        "classroom_id": "R002"
+    },
+    {
+        "lecture_id": "L003",
+        "timeslot_id": "T003",
+        "classroom_id": "R003"
+    },
+    {
+        "lecture_id": "L004",
+        "timeslot_id": "T004",
+        "classroom_id": "R004"
+    },
+    {
+        "lecture_id": "L005",
+        "timeslot_id": "T005",
+        "classroom_id": "R005"
+    },
+    {
+        "lecture_id": "L006",
+        "timeslot_id": "T006",
+        "classroom_id": "R006"
+    },
+    {
+        "lecture_id": "L007",
+        "timeslot_id": "T007",
+        "classroom_id": "R007"
+    },
+    {
+        "lecture_id": "L008",
+        "timeslot_id": "T008",
+        "classroom_id": "R008"
+    },
+    {
+        "lecture_id": "L009",
+        "timeslot_id": "T009",
+        "classroom_id": "R009"
+    },
+    {
+        "lecture_id": "L010",
+        "timeslot_id": "T010",
+        "classroom_id": "R010"
+    }
+]

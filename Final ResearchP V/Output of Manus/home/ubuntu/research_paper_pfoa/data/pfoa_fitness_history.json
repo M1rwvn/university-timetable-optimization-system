@@ -1,0 +1,502 @@
+[
+    {
+        "generation": 1,
+        "best_fitness": -61387400,
+        "violations": {
+            "instructor_conflict": 190,
+            "room_conflict": 286,
+            "capacity_violation": 1100,
+            "student_conflict": 306424
+        }
+    },
+    {
+        "generation": 2,
+        "best_fitness": -61153600,
+        "violations": {
+            "instructor_conflict": 164,
+            "room_conflict": 274,
+            "capacity_violation": 1100,
+            "student_conflict": 305274
+        }
+    },
+    {
+        "generation": 3,
+        "best_fitness": -61153600,
+        "violations": {
+            "instructor_conflict": 164,
+            "room_conflict": 274,
+            "capacity_violation": 1100,
+            "student_conflict": 305274
+        }
+    },
+    {
+        "generation": 4,
+        "best_fitness": -61057100,
+        "violations": {
+            "instructor_conflict": 168,
+            "room_conflict": 265,
+            "capacity_violation": 1100,
+            "student_conflict": 304794
+        }
+    },
+    {
+        "generation": 5,
+        "best_fitness": -60967200,
+        "violations": {
+            "instructor_conflict": 174,
+            "room_conflict": 276,
+            "capacity_violation": 1100,
+            "student_conflict": 304336
+        }
+    },
+    {
+        "generation": 6,
+        "best_fitness": -60808000,
+        "violations": {
+            "instructor_conflict": 163,
+            "room_conflict": 281,
+            "capacity_violation": 1100,
+            "student_conflict": 303543
+        }
+    },
+    {
+        "generation": 7,
+        "best_fitness": -60719400,
+        "violations": {
+            "instructor_conflict": 169,
+            "room_conflict": 265,
+            "capacity_violation": 1100,
+            "student_conflict": 303105
+        }
+    },
+    {
+        "generation": 8,
+        "best_fitness": -60662400,
+        "violations": {
+            "instructor_conflict": 170,
+            "room_conflict": 274,
+            "capacity_violation": 1100,
+            "student_conflict": 302815
+        }
+    },
+    {
+        "generation": 9,
+        "best_fitness": -60607500,
+        "violations": {
+            "instructor_conflict": 167,
+            "room_conflict": 270,
+            "capacity_violation": 1100,
+            "student_conflict": 302544
+        }
+    },
+    {
+        "generation": 10,
+        "best_fitness": -60559900,
+        "violations": {
+            "instructor_conflict": 167,
+            "room_conflict": 268,
+            "capacity_violation": 1100,
+            "student_conflict": 302307
+        }
+    },
+    {
+        "generation": 11,
+        "best_fitness": -60541300,
+        "violations": {
+            "instructor_conflict": 167,
+            "room_conflict": 270,
+            "capacity_violation": 1100,
+            "student_conflict": 302213
+        }
+    },
+    {
+        "generation": 12,
+        "best_fitness": -60520400,
+        "violations": {
+            "instructor_conflict": 165,
+            "room_conflict": 267,
+            "capacity_violation": 1100,
+            "student_conflict": 302111
+        }
+    },
+    {
+        "generation": 13,
+        "best_fitness": -60468000,
+        "violations": {
+            "instructor_conflict": 172,
+            "room_conflict": 270,
+            "capacity_violation": 1100,
+            "student_conflict": 301844
+        }
+    },
+    {
+        "generation": 14,
+        "best_fitness": -60453800,
+        "violations": {
+            "instructor_conflict": 168,
+            "room_conflict": 268,
+            "capacity_violation": 1100,
+            "student_conflict": 301776
+        }
+    },
+    {
+        "generation": 15,
+        "best_fitness": -60418200,
+        "violations": {
+            "instructor_conflict": 167,
+            "room_conflict": 267,
+            "capacity_violation": 1100,
+            "student_conflict": 301599
+        }
+    },
+    {
+        "generation": 16,
+        "best_fitness": -60382700,
+        "violations": {
+            "instructor_conflict": 172,
+            "room_conflict": 275,
+            "capacity_violation": 1100,
+            "student_conflict": 301415
+        }
+    },
+    {
+        "generation": 17,
+        "best_fitness": -60357500,
+        "violations": {
+            "instructor_conflict": 173,
+            "room_conflict": 272,
+            "capacity_violation": 1100,
+            "student_conflict": 301290
+        }
+    },
+    {
+        "generation": 18,
+        "best_fitness": -60273800,
+        "violations": {
+            "instructor_conflict": 176,
+            "room_conflict": 272,
+            "capacity_violation": 1100,
+            "student_conflict": 300870
+        }
+    },
+    {
+        "generation": 19,
+        "best_fitness": -60258100,
+        "violations": {
+            "instructor_conflict": 176,
+            "room_conflict": 275,
+            "capacity_violation": 1100,
+            "student_conflict": 300790
+        }
+    },
+    {
+        "generation": 20,
+        "best_fitness": -60247300,
+        "violations": {
+            "instructor_conflict": 176,
+            "room_conflict": 271,
+            "capacity_violation": 1100,
+            "student_conflict": 300738
+        }
+    },
+    {
+        "generation": 21,
+        "best_fitness": -60222800,
+        "violations": {
+            "instructor_conflict": 176,
+            "room_conflict": 270,
+            "capacity_violation": 1100,
+            "student_conflict": 300616
+        }
+    },
+    {
+        "generation": 22,
+        "best_fitness": -60212200,
+        "violations": {
+            "instructor_conflict": 176,
+            "room_conflict": 272,
+            "capacity_violation": 1100,
+            "student_conflict": 300562
+        }
+    },
+    {
+        "generation": 23,
+        "best_fitness": -60207700,
+        "violations": {
+            "instructor_conflict": 176,
+            "room_conflict": 271,
+            "capacity_violation": 1100,
+            "student_conflict": 300540
+        }
+    },
+    {
+        "generation": 24,
+        "best_fitness": -60194000,
+        "violations": {
+            "instructor_conflict": 174,
+            "room_conflict": 272,
+            "capacity_violation": 1100,
+            "student_conflict": 300472
+        }
+    },
+    {
+        "generation": 25,
+        "best_fitness": -60187000,
+        "violations": {
+            "instructor_conflict": 171,
+            "room_conflict": 271,
+            "capacity_violation": 1100,
+            "student_conflict": 300439
+        }
+    },
+    {
+        "generation": 26,
+        "best_fitness": -60149500,
+        "violations": {
+            "instructor_conflict": 172,
+            "room_conflict": 271,
+            "capacity_violation": 1100,
+            "student_conflict": 300251
+        }
+    },
+    {
+        "generation": 27,
+        "best_fitness": -60135700,
+        "violations": {
+            "instructor_conflict": 172,
+            "room_conflict": 269,
+            "capacity_violation": 1100,
+            "student_conflict": 300183
+        }
+    },
+    {
+        "generation": 28,
+        "best_fitness": -60135600,
+        "violations": {
+            "instructor_conflict": 172,
+            "room_conflict": 268,
+            "capacity_violation": 1100,
+            "student_conflict": 300183
+        }
+    },
+    {
+        "generation": 29,
+        "best_fitness": -60135400,
+        "violations": {
+            "instructor_conflict": 172,
+            "room_conflict": 266,
+            "capacity_violation": 1100,
+            "student_conflict": 300183
+        }
+    },
+    {
+        "generation": 30,
+        "best_fitness": -60135300,
+        "violations": {
+            "instructor_conflict": 172,
+            "room_conflict": 265,
+            "capacity_violation": 1100,
+            "student_conflict": 300183
+        }
+    },
+    {
+        "generation": 31,
+        "best_fitness": -60135300,
+        "violations": {
+            "instructor_conflict": 172,
+            "room_conflict": 265,
+            "capacity_violation": 1100,
+            "student_conflict": 300183
+        }
+    },
+    {
+        "generation": 32,
+        "best_fitness": -60134000,
+        "violations": {
+            "instructor_conflict": 169,
+            "room_conflict": 283,
+            "capacity_violation": 1100,
+            "student_conflict": 300169
+        }
+    },
+    {
+        "generation": 33,
+        "best_fitness": -60100800,
+        "violations": {
+            "instructor_conflict": 170,
+            "room_conflict": 274,
+            "capacity_violation": 1100,
+            "student_conflict": 300007
+        }
+    },
+    {
+        "generation": 34,
+        "best_fitness": -60100500,
+        "violations": {
+            "instructor_conflict": 169,
+            "room_conflict": 272,
+            "capacity_violation": 1100,
+            "student_conflict": 300007
+        }
+    },
+    {
+        "generation": 35,
+        "best_fitness": -60081400,
+        "violations": {
+            "instructor_conflict": 172,
+            "room_conflict": 276,
+            "capacity_violation": 1100,
+            "student_conflict": 299908
+        }
+    },
+    {
+        "generation": 36,
+        "best_fitness": -60058900,
+        "violations": {
+            "instructor_conflict": 170,
+            "room_conflict": 273,
+            "capacity_violation": 1100,
+            "student_conflict": 299798
+        }
+    },
+    {
+        "generation": 37,
+        "best_fitness": -60046100,
+        "violations": {
+            "instructor_conflict": 170,
+            "room_conflict": 271,
+            "capacity_violation": 1100,
+            "student_conflict": 299735
+        }
+    },
+    {
+        "generation": 38,
+        "best_fitness": -60045700,
+        "violations": {
+            "instructor_conflict": 169,
+            "room_conflict": 268,
+            "capacity_violation": 1100,
+            "student_conflict": 299735
+        }
+    },
+    {
+        "generation": 39,
+        "best_fitness": -60045700,
+        "violations": {
+            "instructor_conflict": 169,
+            "room_conflict": 268,
+            "capacity_violation": 1100,
+            "student_conflict": 299735
+        }
+    },
+    {
+        "generation": 40,
+        "best_fitness": -60045700,
+        "violations": {
+            "instructor_conflict": 169,
+            "room_conflict": 268,
+            "capacity_violation": 1100,
+            "student_conflict": 299735
+        }
+    },
+    {
+        "generation": 41,
+        "best_fitness": -60045700,
+        "violations": {
+            "instructor_conflict": 169,
+            "room_conflict": 268,
+            "capacity_violation": 1100,
+            "student_conflict": 299735
+        }
+    },
+    {
+        "generation": 42,
+        "best_fitness": -60045700,
+        "violations": {
+            "instructor_conflict": 169,
+            "room_conflict": 268,
+            "capacity_violation": 1100,
+            "student_conflict": 299735
+        }
+    },
+    {
+        "generation": 43,
+        "best_fitness": -60024800,
+        "violations": {
+            "instructor_conflict": 167,
+            "room_conflict": 269,
+            "capacity_violation": 1100,
+            "student_conflict": 299631
+        }
+    },
+    {
+        "generation": 44,
+        "best_fitness": -59994000,
+        "violations": {
+            "instructor_conflict": 166,
+            "room_conflict": 268,
+            "capacity_violation": 1100,
+            "student_conflict": 299478
+        }
+    },
+    {
+        "generation": 45,
+        "best_fitness": -59963900,
+        "violations": {
+            "instructor_conflict": 168,
+            "room_conflict": 271,
+            "capacity_violation": 1100,
+            "student_conflict": 299325
+        }
+    },
+    {
+        "generation": 46,
+        "best_fitness": -59951500,
+        "violations": {
+            "instructor_conflict": 168,
+            "room_conflict": 271,
+            "capacity_violation": 1100,
+            "student_conflict": 299263
+        }
+    },
+    {
+        "generation": 47,
+        "best_fitness": -59943400,
+        "violations": {
+            "instructor_conflict": 168,
+            "room_conflict": 274,
+            "capacity_violation": 1100,
+            "student_conflict": 299221
+        }
+    },
+    {
+        "generation": 48,
+        "best_fitness": -59934400,
+        "violations": {
+            "instructor_conflict": 169,
+            "room_conflict": 275,
+            "capacity_violation": 1100,
+            "student_conflict": 299175
+        }
+    },
+    {
+        "generation": 49,
+        "best_fitness": -59934000,
+        "violations": {
+            "instructor_conflict": 168,
+            "room_conflict": 272,
+            "capacity_violation": 1100,
+            "student_conflict": 299175
+        }
+    },
+    {
+        "generation": 50,
+        "best_fitness": -59933900,
+        "violations": {
+            "instructor_conflict": 168,
+            "room_conflict": 271,
+            "capacity_violation": 1100,
+            "student_conflict": 299175
+        }
+    }
+]
