@@ -37,3 +37,21 @@ From the write-up (50 generations, 1,100 lectures): fitness improved from about 
 ## License
 
 MIT for the code and write-ups, see `LICENSE`. The PDFs in `Dataset/Research papers/` are third-party papers kept as references and are not covered by that license.
+
+## Diagrams and run output
+
+### Algorithm flowcharts
+
+![PFOA flowchart: initialization, leader selection, and the main loop with boundary check, fitness evaluation and leader update](Flowchart%20POAF.png)
+
+![Main-loop flowchart from the research notes: predation and schooling offspring, the repair step and elitism](Delivering/pfoa%20research/WhatsApp%20Image%202025-05-14%20at%2000.13.50_b0e3674c.jpg)
+
+### Full run (1,100 lectures, 50 generations)
+
+![Best fitness per generation for the full run: from about -61.4M to -59.9M (negative penalty)](Final%20ResearchP%20V/Output%20of%20Manus/home/ubuntu/research_paper_pfoa/figures/fitness_over_generations.png)
+
+![Constraint violations per generation: instructor, room, capacity and student conflicts all fall during the run but do not reach zero, which is why the best timetable is not feasible](Delivering/pfoa%20research/4f15b1698d0146a7802c1b8bcd0d04b6.jpg)
+
+### Sample run on the small processed inputs
+
+![Console output of a run on the small sample inputs in Final Delivering/Code/Processed Dataset: 50 generations in about 4 seconds, best fitness 0 with no conflicts, and the final timetable printed as a table. This is the small sample, not the 1,100-lecture run above](Final%20Delivering/Code/Screenshot%202025-05-22%20150905.png)
